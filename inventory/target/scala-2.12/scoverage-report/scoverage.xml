@@ -1,0 +1,145 @@
+<scoverage 
+statement-count="37" statements-invoked="37" statement-rate="100.00" branch-rate="100.00" version="1.0" timestamp="1506405887572">
+    <packages>
+        <package name="services" statement-count="37" statements-invoked="37" statement-rate="100.00">
+            <classes>
+                <class 
+                name="services.InventoryServices" filename="services/Inventory.scala" statement-count="20" statements-invoked="20" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="services/InventoryServices/searchItem" statement-count="7" statements-invoked="7" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="searchItem" start="307" end="352" line="11" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="searchItem" start="397" end="429" line="14" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="searchItem" start="397" end="429" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="searchItem" start="260" end="486" line="10" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="searchItem" start="325" end="351" line="11" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="searchItem" start="364" end="385" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="searchItem" start="459" end="472" line="17" branch="true" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="services/InventoryServices/sortItems" statement-count="13" statements-invoked="13" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="sortItems" start="980" end="987" line="33" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="sortItems" start="748" end="756" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="sortItems" start="798" end="806" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="sortItems" start="599" end="1022" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="sortItems" start="931" end="938" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="sortItems" start="780" end="815" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="sortItems" start="913" end="939" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="sortItems" start="730" end="757" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="sortItems" start="962" end="996" line="33" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="sortItems" start="979" end="979" line="33" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="sortItems" start="747" end="747" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="sortItems" start="797" end="797" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryServices" class-type="Class" full-class-name="services.InventoryServices" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala" method="sortItems" start="930" end="930" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="services.InventoryDatabase" filename="services/InventoryDatabase.scala" statement-count="17" statements-invoked="17" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="services/InventoryDatabase/&lt;none&gt;" statement-count="17" statements-invoked="17" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="services" class="InventoryDatabase" class-type="Trait" full-class-name="services.InventoryDatabase" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala" method="&lt;none&gt;" start="164" end="170" line="8" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryDatabase" class-type="Trait" full-class-name="services.InventoryDatabase" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala" method="&lt;none&gt;" start="243" end="263" line="9" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryDatabase" class-type="Trait" full-class-name="services.InventoryDatabase" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala" method="&lt;none&gt;" start="293" end="298" line="10" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryDatabase" class-type="Trait" full-class-name="services.InventoryDatabase" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala" method="&lt;none&gt;" start="197" end="199" line="8" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryDatabase" class-type="Trait" full-class-name="services.InventoryDatabase" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala" method="&lt;none&gt;" start="223" end="230" line="9" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryDatabase" class-type="Trait" full-class-name="services.InventoryDatabase" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala" method="&lt;none&gt;" start="240" end="241" line="9" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryDatabase" class-type="Trait" full-class-name="services.InventoryDatabase" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala" method="&lt;none&gt;" start="155" end="162" line="8" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryDatabase" class-type="Trait" full-class-name="services.InventoryDatabase" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala" method="&lt;none&gt;" start="215" end="268" line="9" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryDatabase" class-type="Trait" full-class-name="services.InventoryDatabase" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala" method="&lt;none&gt;" start="175" end="195" line="8" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryDatabase" class-type="Trait" full-class-name="services.InventoryDatabase" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala" method="&lt;none&gt;" start="288" end="306" line="10" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryDatabase" class-type="Trait" full-class-name="services.InventoryDatabase" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala" method="&lt;none&gt;" start="220" end="221" line="9" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryDatabase" class-type="Trait" full-class-name="services.InventoryDatabase" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala" method="&lt;none&gt;" start="147" end="200" line="8" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryDatabase" class-type="Trait" full-class-name="services.InventoryDatabase" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala" method="&lt;none&gt;" start="300" end="305" line="10" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryDatabase" class-type="Trait" full-class-name="services.InventoryDatabase" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala" method="&lt;none&gt;" start="152" end="153" line="8" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryDatabase" class-type="Trait" full-class-name="services.InventoryDatabase" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala" method="&lt;none&gt;" start="232" end="238" line="9" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryDatabase" class-type="Trait" full-class-name="services.InventoryDatabase" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala" method="&lt;none&gt;" start="172" end="173" line="8" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="InventoryDatabase" class-type="Trait" full-class-name="services.InventoryDatabase" source="/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala" method="&lt;none&gt;" start="265" end="267" line="9" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>

@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging /home/akshay/IdeaProjects/Test2/Test-2/accounts/target/scala-2.12/accounts_2.12-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	services[0m
+[0m[[0mdebug[0m] [0m	  /home/akshay/IdeaProjects/Test2/Test-2/accounts/target/scala-2.12/classes/services[0m
+[0m[[0mdebug[0m] [0m	models/User.class[0m
+[0m[[0mdebug[0m] [0m	  /home/akshay/IdeaProjects/Test2/Test-2/accounts/target/scala-2.12/classes/models/User.class[0m
+[0m[[0mdebug[0m] [0m	services/Database.class[0m
+[0m[[0mdebug[0m] [0m	  /home/akshay/IdeaProjects/Test2/Test-2/accounts/target/scala-2.12/classes/services/Database.class[0m
+[0m[[0mdebug[0m] [0m	models/User$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/akshay/IdeaProjects/Test2/Test-2/accounts/target/scala-2.12/classes/models/User$.class[0m
+[0m[[0mdebug[0m] [0m	services/Accounts.class[0m
+[0m[[0mdebug[0m] [0m	  /home/akshay/IdeaProjects/Test2/Test-2/accounts/target/scala-2.12/classes/services/Accounts.class[0m
+[0m[[0mdebug[0m] [0m	models[0m
+[0m[[0mdebug[0m] [0m	  /home/akshay/IdeaProjects/Test2/Test-2/accounts/target/scala-2.12/classes/models[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

@@ -1,0 +1,133 @@
+<scoverage 
+statement-count="33" statements-invoked="33" statement-rate="100.00" branch-rate="100.00" version="1.0" timestamp="1506405887982">
+    <packages>
+        <package name="services" statement-count="33" statements-invoked="33" statement-rate="100.00">
+            <classes>
+                <class 
+                name="services.Accounts" filename="services/Accounts.scala" statement-count="23" statements-invoked="23" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="services/Accounts/addUser" statement-count="9" statements-invoked="9" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="addUser" start="620" end="625" line="23" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="addUser" start="521" end="576" line="19" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="addUser" start="586" end="590" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="addUser" start="500" end="577" line="19" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="addUser" start="620" end="625" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="addUser" start="461" end="488" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="addUser" start="442" end="639" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="addUser" start="509" end="576" line="19" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="addUser" start="490" end="598" line="18" branch="true" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="services/Accounts/authenticate" statement-count="14" statements-invoked="14" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="authenticate" start="735" end="1210" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="authenticate" start="1138" end="1171" line="37" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="authenticate" start="803" end="877" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="authenticate" start="1190" end="1194" line="37" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="authenticate" start="926" end="966" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="authenticate" start="889" end="914" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="authenticate" start="986" end="1203" line="34" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="authenticate" start="1092" end="1114" line="36" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="authenticate" start="842" end="877" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="authenticate" start="1124" end="1189" line="37" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="authenticate" start="1172" end="1188" line="37" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="authenticate" start="1123" end="1195" line="37" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="authenticate" start="774" end="878" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Accounts" class-type="Class" full-class-name="services.Accounts" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Accounts.scala" method="authenticate" start="926" end="966" line="32" branch="true" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="services.Database" filename="services/Database.scala" statement-count="10" statements-invoked="10" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="services/Database/&lt;none&gt;" statement-count="10" statements-invoked="10" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="services" class="Database" class-type="Trait" full-class-name="services.Database" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Database.scala" method="&lt;none&gt;" start="289" end="354" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Database" class-type="Trait" full-class-name="services.Database" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Database.scala" method="&lt;none&gt;" start="147" end="212" line="11" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Database" class-type="Trait" full-class-name="services.Database" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Database.scala" method="&lt;none&gt;" start="218" end="283" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Database" class-type="Trait" full-class-name="services.Database" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Database.scala" method="&lt;none&gt;" start="304" end="354" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Database" class-type="Trait" full-class-name="services.Database" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Database.scala" method="&lt;none&gt;" start="162" end="212" line="11" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Database" class-type="Trait" full-class-name="services.Database" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Database.scala" method="&lt;none&gt;" start="233" end="283" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Database" class-type="Trait" full-class-name="services.Database" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Database.scala" method="&lt;none&gt;" start="218" end="229" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Database" class-type="Trait" full-class-name="services.Database" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Database.scala" method="&lt;none&gt;" start="289" end="300" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Database" class-type="Trait" full-class-name="services.Database" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Database.scala" method="&lt;none&gt;" start="147" end="158" line="11" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="services" class="Database" class-type="Trait" full-class-name="services.Database" source="/home/akshay/IdeaProjects/Test2/Test-2/accounts/src/main/scala/services/Database.scala" method="&lt;none&gt;" start="138" end="358" line="10" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>

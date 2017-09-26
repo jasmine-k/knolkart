@@ -1,0 +1,84 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala, /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala, /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Inventory.scala, /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Vendor.scala, /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Item.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala, /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala, /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Inventory.scala, /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Vendor.scala, /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Item.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala, /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala, /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Inventory.scala, /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Vendor.scala, /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Item.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala, /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala, /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Inventory.scala, /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Vendor.scala, /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Item.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 5 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 5 Scala sources to /home/akshay/IdeaProjects/Test2/Test-2/inventory/target/scala-2.12/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.3[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.3[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 1877f47, interfacing (CompilerInterface) with Scala compiler version 2.12.3[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-Xplugin:/home/akshay/.ivy2/cache/org.scoverage/scalac-scoverage-plugin_2.12/jars/scalac-scoverage-plugin_2.12-1.3.0.jar[0m
+[0m[[0mdebug[0m] [0m	-P:scoverage:dataDir:/home/akshay/IdeaProjects/Test2/Test-2/inventory/target/scala-2.12/scoverage-data[0m
+[0m[[0mdebug[0m] [0m	-Yrangepos[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/akshay/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/akshay/IdeaProjects/Test2/Test-2/inventory/target/scala-2.12/classes:/home/akshay/.ivy2/cache/com.sksamuel.scapegoat/scalac-scapegoat-plugin_2.12/jars/scalac-scapegoat-plugin_2.12-1.3.0.jar:/home/akshay/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.3.jar:/home/akshay/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.5.jar:/home/akshay/.ivy2/cache/org.scoverage/scalac-scoverage-runtime_2.12/jars/scalac-scoverage-runtime_2.12-1.3.0.jar:/home/akshay/.ivy2/cache/org.mindrot/jbcrypt/jars/jbcrypt-0.4.jar[0m
+[0m[[0minfo[0m] [0m[info] Cleaning datadir [/home/akshay/IdeaProjects/Test2/Test-2/inventory/target/scala-2.12/scoverage-data][0m
+[0m[[0minfo[0m] [0m[info] Beginning coverage instrumentation[0m
+[0m[[0minfo[0m] [0m[info] Instrumentation completed [37 statements][0m
+[0m[[0minfo[0m] [0m[info] Wrote instrumentation file [/home/akshay/IdeaProjects/Test2/Test-2/inventory/target/scala-2.12/scoverage-data/scoverage.coverage.xml][0m
+[0m[[0minfo[0m] [0m[info] Will write measurement data to [/home/akshay/IdeaProjects/Test2/Test-2/inventory/target/scala-2.12/scoverage-data][0m
+[0m[[0mdebug[0m] [0mScala compilation took 8.479515771 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, InventoryServices, item2, wait, $asInstanceOf, equals, item1, asInstanceOf, synchronized, $isInstanceOf, notifyAll, sortItems, isInstanceOf, <init>, ==, searchItem, clone, $init$, toString, !=, getClass, ne, listOfItem, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Inventory.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Inventory.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Inventory.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Inventory.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Inventory.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, canEqual, productPrefix, notifyAll, isInstanceOf, <init>, Inventory, ==, clone, $init$, copy, toString, !=, getClass, copy$default$1, ne, listOfItem, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala: Set(asInstanceOf, isInstanceOf, <init>, Inventory, ==, listOfItem)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Vendor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Vendor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Vendor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Vendor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Vendor.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, name, wait, copy$default$2, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, canEqual, productPrefix, notifyAll, isInstanceOf, Vendor, <init>, id, ==, clone, $init$, copy, toString, !=, getClass, copy$default$1, ne, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala: Set(Vendor)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Item.scala: Set(name, asInstanceOf, isInstanceOf, Vendor, <init>, id, ==, toString, eq)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Including /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala by /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala, /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, item2, wait, $asInstanceOf, equals, item1, asInstanceOf, synchronized, $isInstanceOf, InventoryDatabase, notifyAll, isInstanceOf, ==, clone, $init$, toString, !=, getClass, ne, listOfItem, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala: Set(asInstanceOf, InventoryDatabase, isInstanceOf, ==, listOfItem)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Item.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Item.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Item.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Item.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Item.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, name, wait, copy$default$2, $asInstanceOf, vendorInformation, copy$default$5, productArity, equals, asInstanceOf, price, synchronized, $isInstanceOf, canEqual, copy$default$4, productPrefix, notifyAll, isInstanceOf, <init>, id, rating, ==, clone, $init$, copy$default$3, copy, category, toString, Item, !=, getClass, copy$default$1, copy$default$6, ne, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/models/Inventory.scala: Set(asInstanceOf, isInstanceOf, <init>, ==, toString, Item, eq)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/InventoryDatabase.scala: Set(Item)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/akshay/IdeaProjects/Test2/Test-2/inventory/src/main/scala/services/Inventory.scala: Set(asInstanceOf, price, isInstanceOf, <init>, rating, ==, category, Item)[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
