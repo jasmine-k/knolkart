@@ -33,8 +33,8 @@ class Accounts extends Database {
       }
       else {
       //  (BCrypt.hashpw(userDetailsResult.head._1.toString, BCrypt.gensalt()), true)
-        val now = Calendar.getInstance()
-        (BCrypt.hashpw(now.get(Calendar.MINUTE).toString,BCrypt.gensalt()),true)
+        val time = Calendar.getInstance()
+        (BCrypt.hashpw(time.get(Calendar.MINUTE).toString,BCrypt.gensalt()),true)
       }
 
     }
