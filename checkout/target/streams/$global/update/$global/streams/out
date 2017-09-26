@@ -1962,7 +1962,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.3!scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.14.4!jline.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 314ms :: artifacts dl 10ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 433ms :: artifacts dl 12ms[0m
 [0m[[0mdebug[0m] [0m	report for checkout#checkout_2.12;1.0 cpd produced in /home/akshay/IdeaProjects/Test2/Test-2/checkout/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-cpd.xml[0m
 [0m[[0mdebug[0m] [0m	report for checkout#checkout_2.12;1.0 compile produced in /home/akshay/IdeaProjects/Test2/Test-2/checkout/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for checkout#checkout_2.12;1.0 runtime produced in /home/akshay/IdeaProjects/Test2/Test-2/checkout/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-runtime.xml[0m
@@ -1978,5 +1978,5 @@
 [0m[[0mdebug[0m] [0m	report for checkout#checkout_2.12;1.0 pom produced in /home/akshay/IdeaProjects/Test2/Test-2/checkout/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for checkout#checkout_2.12;1.0 scala-tool produced in /home/akshay/IdeaProjects/Test2/Test-2/checkout/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-scala-tool.xml[0m
 [0m[[0mdebug[0m] [0m	report for checkout#checkout_2.12;1.0 scoveragePlugin produced in /home/akshay/IdeaProjects/Test2/Test-2/checkout/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-scoveragePlugin.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (314ms resolve - 10ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (433ms resolve - 12ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="test-internal"
 		confs="cpd, compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool, scoveragePlugin"
-		date="20170926113448"/>
+		date="20170926173444"/>
 	<dependencies>
 		<module organisation="org.scala-lang" name="scala-reflect">
 			<revision name="2.12.3" status="release" pubdate="20170725161444" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.12.3/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="4">
@@ -24,7 +24,7 @@
 			</revision>
 		</module>
 		<module organisation="apiresource" name="apiresource_2.12">
-			<revision name="1.0" status="integration" pubdate="20170926113447" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="1">
+			<revision name="1.0" status="integration" pubdate="20170926173443" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="1">
 				<metadata-artifact status="failed" details="" size="0" time="0" searched="false"/>
 				<caller organisation="dashboard" name="dashboard_2.12" conf="test, compile, provided, test-internal, runtime, optional" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
 				<artifacts>
@@ -32,7 +32,7 @@
 			</revision>
 		</module>
 		<module organisation="notification" name="notification_2.12">
-			<revision name="1.0" status="integration" pubdate="20170926113445" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="9">
+			<revision name="1.0" status="integration" pubdate="20170926173442" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="9">
 				<metadata-artifact status="failed" details="" size="0" time="0" searched="false"/>
 				<caller organisation="apiresource" name="apiresource_2.12" conf="compile" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
 				<artifacts>
@@ -40,7 +40,7 @@
 			</revision>
 		</module>
 		<module organisation="inventory" name="inventory_2.12">
-			<revision name="1.0" status="integration" pubdate="20170926113444" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="8">
+			<revision name="1.0" status="integration" pubdate="20170926173443" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="8">
 				<metadata-artifact status="failed" details="" size="0" time="0" searched="false"/>
 				<caller organisation="apiresource" name="apiresource_2.12" conf="compile" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
 				<artifacts>
@@ -48,7 +48,7 @@
 			</revision>
 		</module>
 		<module organisation="checkout" name="checkout_2.12">
-			<revision name="1.0" status="integration" pubdate="20170926113446" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="7">
+			<revision name="1.0" status="integration" pubdate="20170926173442" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="7">
 				<metadata-artifact status="failed" details="" size="0" time="0" searched="false"/>
 				<caller organisation="apiresource" name="apiresource_2.12" conf="compile" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
 				<artifacts>
@@ -56,7 +56,7 @@
 			</revision>
 		</module>
 		<module organisation="accounts" name="accounts_2.12">
-			<revision name="1.0" status="integration" pubdate="20170926113445" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="2">
+			<revision name="1.0" status="integration" pubdate="20170926173443" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="2">
 				<metadata-artifact status="failed" details="" size="0" time="0" searched="false"/>
 				<caller organisation="apiresource" name="apiresource_2.12" conf="compile" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
 				<artifacts>
